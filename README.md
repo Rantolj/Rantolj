@@ -186,12 +186,6 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
-
-## 🎵 Currently Listening To
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/spotify? background_color=0d1117&border_color=ffffff" />
-</p>
-
 <!-- Code typing animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=200&color=00FF00&background=000000&vCenter=true&width=600&height=200&lines=const+developer+%3D+%7B;++name%3A+'Rantolj'%2C;++skills%3A+%5B'Java'%2C+'PHP'%2C+'Vue'%5D%2C;++status%3A+'Building+awesome+stuff';%7D%3B;+;developer. code()%3B+%2F%2F+Let's+go!" />
