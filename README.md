@@ -1,5 +1,5 @@
 <!-- Header avec animation avancée -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,50:0099CC,100:00BBFF&height=300&section=header&text=MIRANTO&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-stack%20Developer%20%7C%20Code%20Architect&descAlignY=51&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,50:0099CC,100:00BBFF&height=300&section=header&text=MIRANTO&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-stack%20Developer%20%7C%&descAlignY=51&descAlign=50"/>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=0077B5&center=true&vCenter=true&width=600&height=70&lines=Hi%2C+I'm+Miranto+Lanjaniaina+%F0%9F%91%8B;Full-stack+Developer+%F0%9F%9A%80;Welcome+to+my+GitHub!" alt="Typing SVG" />
