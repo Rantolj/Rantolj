@@ -52,15 +52,7 @@
 
 ---
 
-## Featured projects
-- 🚀 **Project 1** — short, punchy description (what problem it solves).  
-  Repo: https://github.com/Rantolj/REPO_NAME_1
-- 🧩 **Project 2** — short description + your main stack used.  
-  Repo: https://github.com/Rantolj/REPO_NAME_2
-- 🛠️ **Project 3** — short description (API / dashboard / automation, etc.).  
-  Repo: https://github.com/Rantolj/REPO_NAME_3
 
----
 
 ## GitHub stats
 <p align="center">
