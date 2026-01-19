@@ -1,5 +1,4 @@
 <!-- Profile README for: Rantolj -->
-<!-- Tip: Create a PUBLIC repo named exactly "Rantolj" and put this README.md in it -->
 
 <h1 align="center">
   Hi, I'm Rantolj
@@ -8,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/Rantolj">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&center=true&vCenter=true&width=520&lines=Builder+%7C+Learner+%7C+Problem+Solver;Always+shipping%2C+always+improving;Open+to+collaboration+and+cool+projects" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&center=true&vCenter=true&width=640&lines=Full-stack+developer;Java+%7C+PHP+%7C+Vue.js+%7C+Node.js;PostgreSQL+%7C+Docker+%7C+Clean+APIs;Always+learning%2C+always+shipping" alt="Typing SVG" />
   </a>
 </p>
 
@@ -17,77 +16,82 @@
   <img src="https://img.shields.io/github/followers/Rantolj?label=Followers&style=flat" alt="followers"/>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:7f00ff&height=2&section=header" width="92%" alt="divider"/>
+</p>
 
 ## About me
-- 🔭 Currently working on: **your current project**
-- 🌱 Learning: **your current learning focus**
-- 💬 Ask me about: **topics you like**
-- 📫 Reach me at: **your email / socials**
-- ⚡ Fun fact: **something fun**
+- 🔭 Building: **scalable web apps & APIs**
+- 🌱 Currently improving: **architecture, testing, DevOps**
+- 💬 Ask me about: **Java / PHP / Node.js / Vue.js / PostgreSQL / Docker**
+- 🤝 Open to: **collaboration & interesting side projects**
 
 ---
 
-## Tech stack
-<p>
-  <!-- Replace/add badges as needed -->
-  <img src="https://img.shields.io/badge/Code-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" />
-  <img src="https://img.shields.io/badge/Framework-React-61DAFB?style=for-the-badge&logo=react&logoColor=000000" />
-  <img src="https://img.shields.io/badge/Tools-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloud-GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+## Tech stack (what I use)
+<p align="center">
+  <!-- Core -->
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+<p align="center">
+  <!-- DevOps & Data -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+<p align="center">
+  <!-- Nice animated touch -->
+  <img src="https://skillicons.dev/icons?i=java,php,vue,nodejs,html,python,docker,postgres&theme=dark" alt="skills icons"/>
 </p>
 
 ---
 
 ## Featured projects
-- 🚀 **Project 1** — one-line description.  
+- 🚀 **Project 1** — short, punchy description (what problem it solves).  
   Repo: https://github.com/Rantolj/REPO_NAME_1
-- 🧩 **Project 2** — one-line description.  
+- 🧩 **Project 2** — short description + your main stack used.  
   Repo: https://github.com/Rantolj/REPO_NAME_2
-- 🛠️ **Project 3** — one-line description.  
+- 🛠️ **Project 3** — short description (API / dashboard / automation, etc.).  
   Repo: https://github.com/Rantolj/REPO_NAME_3
 
 ---
 
-## GitHub stats (animated-ish)
+## GitHub stats
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rantolj&show_icons=true&theme=tokyonight&rank_icon=github" alt="stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rantolj&layout=compact&theme=tokyonight" alt="top langs" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Rantolj&theme=tokyonight&hide_border=false" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=Rantolj&theme=tokyonight" alt="streak" />
 </p>
 
 ---
 
-## Activity graph (animated)
+## Activity graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rantolj&theme=tokyo-night" alt="activity graph" />
 </p>
 
 ---
 
-## Trophies (fun)
+## Connect
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rantolj&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies" />
-</p>
-
----
-
-## Connect with me
-<p>
-  <!-- Replace links -->
+  <!-- Replace with your links -->
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:YOUR_EMAIL@example.com">
-    <img src="https://img.shields.io/badge/Email-Say%20hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
-<!-- Optional: a subtle animated divider -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:7f00ff&height=120&section=footer" alt="footer" />
 </p>
