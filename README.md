@@ -92,14 +92,6 @@
     <td>127 ⭐</td>
   </tr>
 </table>
-
-| 🎯 **2026 Goals** | Progress |
-|:---|:---:|
-| Master microservices | ██████░░░░ 60% |
-| AWS Certification | ████░░░░░░ 40% |
-| 10k+ GitHub stars | ██░░░░░░░░ 20% |
-| Lead a team | ███░░░░░░░ 30% |
-
 </div>
 
 <p align="center">
