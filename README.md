@@ -27,39 +27,6 @@
 <!-- Séparateur animé -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-## 🛠️ Tech Arsenal & Skill Level
-
-<details>
-<summary>🔥 <b>Backend Mastery</b></summary>
-<br>
-
-**Java** ████████████████████ 95%  
-**PHP** █████████████████░░░ 85%  
-**Node.js** ██████████████████░░ 90%  
-**Python** █████████████░░░░░░░ 65%  
-
-</details>
-
-<details>
-<summary>🎨 <b>Frontend Magic</b></summary>
-<br>
-
-**Vue.js** ███████████████████░ 95%  
-**HTML/CSS** ████████████████████ 100%  
-**JavaScript** ██████████████████░░ 90%  
-
-</details>
-
-<details>
-<summary>🗄️ <b>Database & DevOps</b></summary>
-<br>
-
-**PostgreSQL** ████████████████░░░░ 80%  
-**Docker** █████████████████░░░ 85%  
-**Git** ████████████████████ 100%  
-
-</details>
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,php,vue,nodejs,html,python,docker,postgres&theme=dark" /><br>
   <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=My%20Stack&align=center&titleAlign=center&lineCount=2&theme=github_dark&bg=%230D1117&badge=%23161B22&border=%2321262D&titleColor=%23F0F6FC&line1=java%2Cjava%2C007396%3Bphp%2CPHP%2C777BB4%3Bvuejs%2CVue.js%2C4FC08D%3Bnodejs%2CNode.js%2C339933%3B&line2=python%2CPython%2C3776AB%3Bdocker%2CDocker%2C2496ED%3Bpostgresql%2CPostgreSQL%2C336791%3Bhtml5%2CHTML%2CE34F26%3B" />
