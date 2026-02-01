@@ -39,38 +39,7 @@
   <img src="https://img.shields.io/badge/☕-Coffee_Powered-8B4513?style=for-the-badge&labelColor=000000"/>
 </p>
 
-## 🚧 What I'm Building Right Now
 
-<table>
-<tr>
-<td width="50%">
-
-### 🌟 Main Project
-**Modern Web App** - Revolutionary platform  
-`Vue.js` `Node.js` `PostgreSQL`
-
-- ✅ User authentication
-- 🔄 Real-time features  
-- ⏳ Payment integration
-- 📱 Mobile responsiveness
-
-</td>
-<td width="50%">
-
-### 🧠 Learning Focus
-**Cloud Architecture** ☁️  
-*AWS Solutions Architect*
-
-📚 **This week:**
-- Microservices patterns
-- Docker orchestration  
-- CI/CD optimization
-
-🎯 **Target:** Certification Q2 2026
-
-</td>
-</tr>
-</table>
 
 ## 📊 GitHub Analytics
 
