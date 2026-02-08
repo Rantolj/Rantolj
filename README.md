@@ -72,21 +72,8 @@
   <img src="https://streak-stats.demolab.com/? user=Rantolj&theme=tokyonight&hide_border=false" />
 </p>
 
-## 🏆 GitHub Trophies & Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rantolj&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-</p>
 
-## 🏅 Achievements Unlocked
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🎯_Commits-1000+-00C851?style=for-the-badge&labelColor=black" />
-  <img src="https://img.shields.io/badge/⚡_PR_Merged-500+-FF6900?style=for-the-badge&labelColor=black" />  
-  <img src="https://img.shields.io/badge/🐛_Bugs_Fixed-∞-DC143C?style=for-the-badge&labelColor=black" />
-  <img src="https://img.shields.io/badge/☕_Coffee_Drunk-2847-8B4513?style=for-the-badge&labelColor=black" />
-  <img src="https://img.shields.io/badge/🔥_Deploy_Fridays-Legend-FF1744?style=for-the-badge&labelColor=black" />
-</p>
 
 ## 📈 Contribution Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rantolj&theme=tokyo-night&hide_border=true" />
@@ -133,22 +120,6 @@
     <img src="https://img.shields.io/badge/📧_Email_Me-Let's_Chat-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
-</div>
-
-## ☕ Support My Work
-<p align="center">
-  <a href="https://www.buymeacoffee.com/rantolj">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" />
-  </a>
-</p>
-
----
-
-<div align="center">
-
-<sub>⭐ **From [Rantolj](https://github.com/Rantolj)** with ❤️ and lots of ☕</sub><br>
-<sub>💡 *"Code is poetry written in logic"*</sub>
 
 </div>
 
