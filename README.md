@@ -1,5 +1,5 @@
 <!-- Header avec animation avancée -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,50:0099CC,100:00BBFF&height=300&section=header&text=MIRANTO&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Developer%20%7C%&descAlignY=51&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,50:0099CC,100:00BBFF&height=300&section=header&text=MIRANTO&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=35%20%7C%&descAlignY=51&descAlign=50"/>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=0077B5&center=true&vCenter=true&width=600&height=70&lines=Hi%2C+I'm+Miranto+Lanjaniaina+%F0%9F%91%8B;Full-stack+Developer+%F0%9F%9A%80;Welcome+to+my+GitHub!" alt="Typing SVG" />
@@ -32,48 +32,6 @@
   <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=My%20Stack&align=center&titleAlign=center&lineCount=2&theme=github_dark&bg=%230D1117&badge=%23161B22&border=%2321262D&titleColor=%23F0F6FC&line1=java%2Cjava%2C007396%3Bphp%2CPHP%2C777BB4%3Bvuejs%2CVue.js%2C4FC08D%3Bnodejs%2CNode.js%2C339933%3B&line2=python%2CPython%2C3776AB%3Bdocker%2CDocker%2C2496ED%3Bpostgresql%2CPostgreSQL%2C336791%3Bhtml5%2CHTML%2CE34F26%3B" />
 </p>
 
-<!-- Badges animés -->
-<p align="center">
-  <img src="https://img.shields.io/badge/⚡-Lightning_Fast_Developer-FFD700?style=for-the-badge&labelColor=000000"/>
-  <img src="https://img.shields.io/badge/🔥-Hot_Code_Dropper-FF4500?style=for-the-badge&labelColor=000000"/>
-  <img src="https://img.shields.io/badge/☕-Coffee_Powered-8B4513?style=for-the-badge&labelColor=000000"/>
-</p>
-
-
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-### 📈 Live Development Dashboard
-
-<table>
-  <tr>
-    <td>⏰ <b>Coding Time</b></td>
-    <td>🔥 <b>Streak</b></td>
-    <td>📝 <b>Commits</b></td>
-    <td>⭐ <b>Stars Earned</b></td>
-  </tr>
-  <tr>
-    <td>8h/day avg</td>
-    <td>🟢 Active</td>
-    <td>1,247 total</td>
-    <td>127 ⭐</td>
-  </tr>
-</table>
-</div>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rantolj&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rantolj&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/? user=Rantolj&theme=tokyonight&hide_border=false" />
-</p>
-
-
-
 
 ## 📈 Contribution Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rantolj&theme=tokyo-night&hide_border=true" />
@@ -97,14 +55,6 @@
 
 <br clear="right"/>
 
-## 💭 Quote of the Day
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-<!-- Code typing animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=200&color=00FF00&background=000000&vCenter=true&width=600&height=200&lines=const+developer+%3D+%7B;++name%3A+'Rantolj'%2C;++skills%3A+%5B'Java'%2C+'PHP'%2C+'Vue'%5D%2C;++status%3A+'Building+awesome+stuff';%7D%3B;+;developer. code()%3B+%2F%2F+Let's+go!" />
-</p>
 
 ## 🤝 Let's Build Something Amazing Together
 
@@ -113,7 +63,7 @@
 **Ready to collaborate?** I'm always open to interesting projects and conversations!  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+  <a href="https://www.linkedin.com/in/miranto-lanja-9271a33b7/">
     <img src="https://img.shields.io/badge/🤝_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:rantolanja@gmail.com">
