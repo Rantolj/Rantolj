@@ -36,24 +36,9 @@
 ## 📈 Contribution Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rantolj&theme=tokyo-night&hide_border=true" />
 
-## 🎭 Beyond the Code
 
 <img align="right" width="300" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
 
-**When I'm not coding:**
-- 🎵 Vibing to:  **Lo-fi & Synthwave**
-- ☕ Coffee enthusiast (3 cups/day)  
-- 🎮 Gaming: **Strategy & RPGs**
-- 📚 Reading: **Tech blogs & sci-fi**
-- 🏃‍♂️ Running: **5K morning runs**
-
-**Fun Dev Facts:**
-- 💡 Best ideas come at 2AM
-- 🐛 Bug hunting is my superpower  
-- 🚀 Deploy on Fridays? Challenge accepted
-- ☕ Coffee-to-code ratio: 1:10
-
-<br clear="right"/>
 
 
 ## 🤝 Let's Build Something Amazing Together
